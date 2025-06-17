@@ -1,6 +1,6 @@
 # 💳 ATM Machine Simulator in Java
 
-This is a **simple ATM machine simulation** project written in **Java** as part of my Java learning journey. The project demonstrates fundamental OOP concepts and allows users to perform banking operations like checking balance, withdrawing, and depositing money through a command-line interface.
+This is a **simple ATM machine simulation** project written in **Java** as part of my Java learning journey. The project demonstrates fundamental OOP concepts and allows users to perform banking operations like checking balance, withdrawing, and depositing money through a command-line interface
 
 ---
 
